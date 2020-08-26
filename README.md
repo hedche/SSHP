@@ -12,6 +12,6 @@ Languagues used:
 
 This platform was tested using a TP-Link M7200 4G/3G mobile router.
 
-https://github.com/hedche/SSHP/blob/master/Overview.jpg
 
+High level overview of the platform:
 ![alt text](https://github.com/hedche/SSHP/blob/master/Overview.jpg?raw=true)
