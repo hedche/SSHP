@@ -1,4 +1,4 @@
-<!-- Author: Monty Rhodes !-->
+<!-- Author: Monty Rhodes -->
 <!-- Headings -->
 <h1 style="color: #042659; text-align: center;"><strong>Remote Monitoring and Control</strong> Interface</h1>
 <h2 style="color: #2e6c80; text-align: center;">Choose one of the following options:</h2>
