@@ -12,8 +12,11 @@ Languagues used:
 
 This platform was tested using a TP-Link M7200 4G/3G mobile router.
 
+The online homepage for the platform is availible at: http://smartrhodes.tech/SSHP/
 
 High level overview of the platform:
 ![alt text](https://github.com/hedche/SSHP/blob/master/Overview.jpg?raw=true)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZRHZvCrcBU8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Quick video attempting to explain the features and how they work:
+https://www.youtube.com/embed/ZRHZvCrcBU8
