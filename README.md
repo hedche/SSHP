@@ -8,7 +8,7 @@ An IoT platform that can monitor, log, control, and alert using the following ha
 
 Languagues used:
 -
-- SQL
+- SQL (and TSQL to create the tables in the database)
 - PHP
 - HTML
 - C ++
