@@ -1,9 +1,9 @@
 # IoT enabled Small-scale Hydropower monitoring, logging, control, and alert platform
 
 An IoT platform that can monitor, log, control, and alert using the following hardware: 
-- Arduino Boards (ESP8266) with sensors and relay
-- Raspberry Pi
-- Web hosting service
+- ESP8266's with sensors and relay (IoT units)
+- Raspberry Pi (Hub)
+- Web Hosting Service
 - Mobile router
 
 Languagues used:
