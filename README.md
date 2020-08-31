@@ -1,14 +1,17 @@
 # SSHP
 An IoT system that can monitor, log, control, and alert using the following hardware: 
-- Arduino Boards (ESP8266)
+- Arduino Boards (ESP8266) with sensors and relay
 - Raspberry Pi
 - Web hosting service
 
-Languagues used:
+# Languagues used:
 - C ++
 - SQL
 - PHP
 - HTML
+
+Software used on Raspberry Pi:
+- 
 
 This platform was tested using a TP-Link M7200 4G/3G mobile router.
 
