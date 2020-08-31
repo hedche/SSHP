@@ -1,4 +1,4 @@
-/* Create the TemperatureData table for Temperature values to be stored in */
+/* Create the TemperatureData table for Temperature values to be stored in */ 
 CREATE TABLE TemperatureData (
   ID int(255) NOT NULL,
   Temperature varchar(10) COLLATE utf8mb4_unicode_ci NOT NULL,
