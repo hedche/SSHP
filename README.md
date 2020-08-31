@@ -1,11 +1,12 @@
-# SSHP
-An IoT system that can monitor, log, control, and alert using the following hardware: 
+# IoT enabled Small-scale Hydropower monitoring, logging, control, and alert platform
+
+An IoT platform that can monitor, log, control, and alert using the following hardware: 
 - Arduino Boards (ESP8266) with sensors and relay
 - Raspberry Pi
 - Web hosting service
 
-# Languagues used:
-- C ++
+Languagues used:
+-
 - SQL
 - PHP
 - HTML
