@@ -12,4 +12,4 @@
 <p style="text-align: center;">&nbsp;<a href="http://smartrhodes.tech/SSHP/ControlMain.php"><span style="background-color: #9e0606; color: #ffffff; display: inline-block; padding: 3px 10px; border-radius: 5px;">Control Dashboard</span></a></p>
 
 <!-- Embedded YouTube video of the workings of the platform -->
-<p style="text-align: center;">&nbsp;<iframe width="560" height="315" src="https://www.youtube.com/embed/ZRHZvCrcBU8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align: center;">&nbsp;<iframe width="560" height="315" src="https://www.youtube.com/embed/ZRHZvCrcBU8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p> 
