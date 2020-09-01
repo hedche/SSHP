@@ -31,4 +31,4 @@ High level overview of the platform:
 Quick video attempting to explain the features and how they work as quickly as possible:
 https://www.youtube.com/embed/ZRHZvCrcBU8
 
-_Note: Not all code is original and has been sourced from a variety of authors. The author and source is specified in the files._ 
+_Note: Not all code is original and has been sourced from a variety of authors. The author and source is specified the corresponsing file._ 
