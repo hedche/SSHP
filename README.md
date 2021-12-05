@@ -22,7 +22,7 @@ Software used on Raspberry Pi:
 
 This platform was tested using a TP-Link M7200 4G/3G for the mobile router.
 
-The online homepage for the platform is availible at: http://smartrhodes.tech/SSHP/
+The online homepage for the platform was availible at: http://smartrhodes.tech/SSHP/
 
 High level overview of the platform:
 ![alt text](https://github.com/hedche/SSHP/blob/master/Overview.jpg?raw=true)
