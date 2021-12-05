@@ -8,19 +8,19 @@ An IoT platform that can monitor, log, control, and alert using the following ha
 
 Languagues used:
 -
-- SQL (and TSQL to create the tables in the database)
+- SQL
 - PHP
 - HTML
 - C ++
 
 Software used on Raspberry Pi:
-- 
+-
 - Node-RED
 - Mosquitto MQTT Broker
 - phpMyAdmin
 - MariaDB
 
-This platform was tested using a TP-Link M7200 4G/3G for the mobile router.
+This platform was tested using a TP-Link M7200 4G/3G as the mobile router.
 
 The online homepage for the platform was availible at: http://smartrhodes.tech/SSHP/
 
